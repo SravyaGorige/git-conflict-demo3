@@ -13,7 +13,7 @@ public class App {
         System.out.println("Line 11");
         System.out.println("Line 12");
         System.out.println("Line 13");
-        System.out.println("Changed on Local and Remote");
+        System.out.println("Changed on Local ");
         System.out.println("Line 15");
     }
 }
